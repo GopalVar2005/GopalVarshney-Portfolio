@@ -1,0 +1,17 @@
+import ProjectPageClient from "@/components/project/project-page-client";
+import { getProjects } from "@/lib/data-service";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: `Projects`,
+    description: "A collection of my personal and professional projects, showcasing my skills and experience in software development."
+}
+
+const ProjectsPage = async () => {
+    const allProjects = await getProjects();
+    const projects = [...allProjects];
+
+    return <ProjectPageClient projects={projects} />;
+};
+
+export default ProjectsPage;

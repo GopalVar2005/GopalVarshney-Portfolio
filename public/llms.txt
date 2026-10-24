@@ -1,0 +1,41 @@
+# Gopal Varshney
+
+> I enjoy building software, solving problems, and figuring out how things work.
+
+Gopal Varshney is a computer science undergraduate (B.Tech CSE, 2023–2027) at GLA University, Mathura, Uttar Pradesh, India, with a CGPA of 8.88/10. He currently works as a Software Engineer Intern at Stratbeans Consulting Pvt. Ltd. He builds web applications using React.js, Node.js, Express.js, MongoDB, and Java, and has solved over 950 problems on LeetCode with a contest rating of 1737.
+
+## Contact & Profiles
+
+- **GitHub**: [github.com/GopalVar2005](https://github.com/GopalVar2005)
+- **LinkedIn**: [linkedin.com/in/gopal-varshney-99b0b0366](https://www.linkedin.com/in/gopal-varshney-99b0b0366/)
+- **LeetCode**: [leetcode.com/u/Gopal_Varshney](https://leetcode.com/u/Gopal_Varshney/)
+- **Codeforces**: [codeforces.com/profile/GopalVar](https://codeforces.com/profile/GopalVar)
+- **Email**: [gopal.varshney13@gmail.com](mailto:gopal.varshney13@gmail.com)
+
+## Technical Stack
+
+- **Languages**: Java, JavaScript, SQL
+- **Backend**: Node.js, Express.js, REST APIs, MongoDB, Mongoose
+- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3
+- **Developer Tools**: Git, GitHub, Postman, Cloudinary, FFmpeg
+- **Computer Science Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems
+
+## Key Featured Projects
+
+### 1. Scriptly — AI Study Platform
+- **Live Demo**: [scriptly-ashen.vercel.app](https://scriptly-ashen.vercel.app/)
+- **Repository**: [github.com/GopalVar2005/Scriptly](https://github.com/GopalVar2005/Scriptly.git)
+- **Tech Stack**: React 19, Node.js, Express.js, MongoDB, Google Gemini, Groq LLaMA, Groq Whisper, FFmpeg, Passport.js
+- Converts audio recordings, video files, and YouTube links into structured study guides, flashcards, and quizzes with AI fallback (Gemini to Groq LLaMA) and FFmpeg audio compression.
+
+### 2. Learnify — Full-Stack Learning Management System
+- **Repository**: [github.com/GopalVar2005/Learnify-Full-Stack-Learning-Web-App](https://github.com/GopalVar2005/Learnify-Full-Stack-Learning-Web-App.git)
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Mongoose, Cloudinary, REST APIs
+- Full-stack LMS with instructor course creation, video lecture uploads, role-based access control across 17 protected REST API endpoints, and lesson progress tracking.
+
+## Work Experience
+
+- **Software Engineer Intern** at Stratbeans Consulting Pvt. Ltd. (July 2026 – Present)
+  - Contributed to backend and frontend improvements across assessment, learning-path, and skill-management workflows.
+  - Debugged and resolved functional, validation, UI, and data-integrity issues across multiple modules.
+  - Implemented and validated application changes using structured test cases and browser-based testing for stable UAT releases.
