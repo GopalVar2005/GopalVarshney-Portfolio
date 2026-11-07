@@ -2,6 +2,8 @@
 
 A sleek, high-performance developer portfolio built with Next.js 16 (App Router), TypeScript, and Tailwind CSS v4. Designed with a narrow-column layout, hairline borders, and zero external database runtime dependencies.
 
+**[Visit the live portfolio →](https://gopalvarshney-portfolio.vercel.app)**
+
 ## 🚀 Overview
 
 - **Developer**: Gopal Varshney
